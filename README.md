@@ -42,7 +42,7 @@ This will create a copy of this repository for your project. A sample contract a
 
 Use this as the foundation for how to write and test your contracts. Replace these with the contracts you want to build.
 
-### [GitHub Actions & Workflow Badges](#github-actions--workflow-badges)
+## [GitHub Actions & Workflow Badges](#github-actions--workflow-badges)
 
 This repository comes with [GitHub Actions](https://github.com/features/actions) already configured. You can find them in the [./github/workflows](./.github/workflows/) directory. These will run the [Unit Tests](./.github/workflows/unit-test.yaml), [Integration Tests](./.github/workflows/integration-test.yaml), [Lint Check](./.github/workflows/lint.yaml), etc, during Pull Requests and merges to the master branch.
 
